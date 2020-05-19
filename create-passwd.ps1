@@ -1,0 +1,1 @@
+﻿$StandardString = Read-Host -AsSecureString
