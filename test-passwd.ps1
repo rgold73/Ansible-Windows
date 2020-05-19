@@ -1,1 +1,1 @@
-﻿ConvertTo-SecureString -SecureString 'nji9(IJNmko0)OKM' 
+﻿ConvertTo-SecureString -SecureString 'secret password' 
